@@ -89,9 +89,4 @@ Feel free to open issues or submit PRs. Whether it's UI suggestions, bug reports
 
 > “Light up your web experience with PageGlow.”
 
-```
 
----
-
-Let me know if you want me to generate a matching logo or if you’d like this project deployed to the Chrome Web Store next!
-```
