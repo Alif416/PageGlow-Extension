@@ -14,13 +14,6 @@
 - ⚡ Fast and minimal UI
 - 🔐 No tracking, no external APIs – fully local and privacy-safe
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots here showing the extension popup and a before/after of a changed webpage)*
-
----
 
 ## 📦 Installation (For Development)
 
