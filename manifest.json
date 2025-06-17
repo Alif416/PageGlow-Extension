@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Page Color Changer",
+  "version": "1.0",
+  "description": "Change page background color with a button click.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
