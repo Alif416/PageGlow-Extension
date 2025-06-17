@@ -82,7 +82,7 @@ Feel free to open issues or submit PRs. Whether it's UI suggestions, bug reports
 ## 👤 Author
 
 **Alif**
-📧 \[[your.email@example.com](mailto:alif16416@gmail.com)]
+📧 \[[alif16416@gmail.com](mailto:alif16416@gmail.com)]
 📂 [GitHub Profile] (https://github.com/Alif416)
 
 ---
